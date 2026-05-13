@@ -46,12 +46,12 @@ The dashboard focuses on:
 
 ## Files
 
-- `pbix/Financial_Sales_Reporting.pbix`: Power BI dashboard file
-- `screenshots/`: dashboard screenshots and reporting previews
-- `data/clientes.xlsx`: customer dimension data
-- `data/productos.xlsx`: product dimension data
-- `data/vendedores.xlsx`: sales representative data
-- `data/pedidos/`: yearly sales order datasets used for reporting and time analysis
+- [Financial-Sales-Reporting](pbix/Financial-Sales-Reporting.pbix): Power BI dashboard file
+- [Screenshots](screenshots/): dashboard screenshots and reporting previews
+- [data/Clientes](data/Clientes.xlsx): customer dimension data
+- [data/Productos](data/Productos.xlsx): product dimension data
+- [data/Vendedores](data/Vendedores.xlsx): sales representative data
+- [data/Pedidos](data/Pedidos/): yearly sales order datasets used for reporting and time analysis
 
 ---
 
